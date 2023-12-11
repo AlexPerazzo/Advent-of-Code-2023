@@ -1,7 +1,7 @@
 
-hand = "asdfJfd"
+hand = "LJJ..LL-7J.F.JJ7-L|JJJ.L-L.L-..JJLLLJ-F-L--L-|-LJL---JLJ-LJLLJL7JJL-7LL-|J.-JJ|JL--F-|LFFLJ-7LL--J-|JJ.7-LF-J7.LJJF-J-|.LFFJFFJJ.FJLJ-LJ.LJ7"
 
-print(hand.count("d"))
+print(len(hand))
 
 
 
